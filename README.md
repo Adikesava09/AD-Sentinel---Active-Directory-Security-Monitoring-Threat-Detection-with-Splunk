@@ -16,6 +16,15 @@ AD Sentinel is a SOC Analyst project built using Splunk to monitor Windows Secur
 - Potential Brute-Force Detection
 - Security Monitoring Dashboard
 
+## Skills Demonstrated
+- Security Event Log Analysis
+- Splunk Dashboard Creation
+- SPL Query Writing
+- Failed Login Detection
+- Brute-Force Detection Logic
+- Windows Security Monitoring
+- Basic SOC Alert Investigation
+
 ## Dashboard Screenshot
 ![AD Sentinel Dashboard]
 (Screenshot 2026-10-15 151932.png)
